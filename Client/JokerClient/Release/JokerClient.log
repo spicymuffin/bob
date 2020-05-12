@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (JokerClient.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\luigi\source\repos\Client\JokerClient\main.cpp(81,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\luigi\source\repos\Client\JokerClient\main.cpp(132,8): warning C4101: 'buf': unreferenced local variable
+  Generating code
+  375 of 385 functions (97.4%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  JokerClient.vcxproj -> C:\Users\luigi\source\repos\Client\Release\Client.exe

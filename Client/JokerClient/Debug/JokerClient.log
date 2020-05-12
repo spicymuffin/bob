@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\luigi\source\repos\JokerClient\JokerClient\main.cpp(56,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\luigi\source\repos\JokerClient\JokerClient\main.cpp(107,8): warning C4101: 'buf': unreferenced local variable
+  JokerClient.vcxproj -> C:\Users\luigi\source\repos\JokerClient\Debug\JokerClient.exe
