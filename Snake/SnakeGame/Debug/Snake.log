@@ -1,0 +1,4 @@
+﻿  main.cpp
+  The contents of <filesystem> are only available with C++17 or later.
+C:\Users\luigi\source\repos\Snake\Snake\main.cpp(246): warning C4715: 'getMapValue': not all control paths return a value
+  Snake.vcxproj -> C:\Users\luigi\source\repos\Snake\Debug\Snake.exe
